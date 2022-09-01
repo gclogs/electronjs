@@ -1,0 +1,1 @@
+[TUTORIAL - Electron JS - Custom Title Bar / Frameless Window - IPC Main/IPC Renderer - MODERN GUI](https://www.youtube.com/watch?v=6OcAoXr40oE&list=PLTpR7iqh2TEj8uWEskIvib31XHBTuTXyX&index=1&t=7s)
